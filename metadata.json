@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven Indian Ghost Kitchen Inventory & Demand Predictor",
+  "description": "Intelligent demand forecasting, Swiggy/Zomato rush prediction, and raw ingredient inventory optimization for Indian cloud kitchens and restaurants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
